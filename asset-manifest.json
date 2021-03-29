@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kezann/static/css/main.e4030ff9.chunk.css",
-    "main.js": "/kezann/static/js/main.349be308.chunk.js",
-    "main.js.map": "/kezann/static/js/main.349be308.chunk.js.map",
+    "main.css": "/kezann/static/css/main.eba17f9e.chunk.css",
+    "main.js": "/kezann/static/js/main.0fb9813d.chunk.js",
+    "main.js.map": "/kezann/static/js/main.0fb9813d.chunk.js.map",
     "runtime-main.js": "/kezann/static/js/runtime-main.69ae5db1.js",
     "runtime-main.js.map": "/kezann/static/js/runtime-main.69ae5db1.js.map",
     "static/js/2.00f6fb17.chunk.js": "/kezann/static/js/2.00f6fb17.chunk.js",
     "static/js/2.00f6fb17.chunk.js.map": "/kezann/static/js/2.00f6fb17.chunk.js.map",
     "index.html": "/kezann/index.html",
-    "static/css/main.e4030ff9.chunk.css.map": "/kezann/static/css/main.e4030ff9.chunk.css.map",
+    "static/css/main.eba17f9e.chunk.css.map": "/kezann/static/css/main.eba17f9e.chunk.css.map",
     "static/js/2.00f6fb17.chunk.js.LICENSE.txt": "/kezann/static/js/2.00f6fb17.chunk.js.LICENSE.txt",
     "static/media/kez.5870ce30.jpg": "/kezann/static/media/kez.5870ce30.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.69ae5db1.js",
     "static/js/2.00f6fb17.chunk.js",
-    "static/css/main.e4030ff9.chunk.css",
-    "static/js/main.349be308.chunk.js"
+    "static/css/main.eba17f9e.chunk.css",
+    "static/js/main.0fb9813d.chunk.js"
   ]
 }
