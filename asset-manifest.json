@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kezann/static/css/main.65e02874.chunk.css",
+    "main.css": "/kezann/static/css/main.c2319032.chunk.css",
     "main.js": "/kezann/static/js/main.b986a087.chunk.js",
     "main.js.map": "/kezann/static/js/main.b986a087.chunk.js.map",
     "runtime-main.js": "/kezann/static/js/runtime-main.69ae5db1.js",
@@ -8,14 +8,14 @@
     "static/js/2.b23b662b.chunk.js": "/kezann/static/js/2.b23b662b.chunk.js",
     "static/js/2.b23b662b.chunk.js.map": "/kezann/static/js/2.b23b662b.chunk.js.map",
     "index.html": "/kezann/index.html",
-    "static/css/main.65e02874.chunk.css.map": "/kezann/static/css/main.65e02874.chunk.css.map",
+    "static/css/main.c2319032.chunk.css.map": "/kezann/static/css/main.c2319032.chunk.css.map",
     "static/js/2.b23b662b.chunk.js.LICENSE.txt": "/kezann/static/js/2.b23b662b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/kezann/static/media/bgf3.a1120656.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.69ae5db1.js",
     "static/js/2.b23b662b.chunk.js",
-    "static/css/main.65e02874.chunk.css",
+    "static/css/main.c2319032.chunk.css",
     "static/js/main.b986a087.chunk.js"
   ]
 }
