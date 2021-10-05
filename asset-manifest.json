@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kezann/static/css/main.c2319032.chunk.css",
-    "main.js": "/kezann/static/js/main.50ca4938.chunk.js",
-    "main.js.map": "/kezann/static/js/main.50ca4938.chunk.js.map",
+    "main.js": "/kezann/static/js/main.1d55972c.chunk.js",
+    "main.js.map": "/kezann/static/js/main.1d55972c.chunk.js.map",
     "runtime-main.js": "/kezann/static/js/runtime-main.69ae5db1.js",
     "runtime-main.js.map": "/kezann/static/js/runtime-main.69ae5db1.js.map",
     "static/js/2.b23b662b.chunk.js": "/kezann/static/js/2.b23b662b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.69ae5db1.js",
     "static/js/2.b23b662b.chunk.js",
     "static/css/main.c2319032.chunk.css",
-    "static/js/main.50ca4938.chunk.js"
+    "static/js/main.1d55972c.chunk.js"
   ]
 }
